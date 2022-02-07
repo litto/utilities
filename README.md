@@ -1,6 +1,11 @@
 # Utilities Functions
 Custom Functions for Generating slugs,passwords,parse string.etc.
 
+##How to Install?
+
+You can install by running command in composer
+composer require litto/utilities:v1.0
+
 ## How to use?
 
 Initialize Class Utilities by calling:-
